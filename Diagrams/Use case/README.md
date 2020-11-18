@@ -1,5 +1,4 @@
 # Поток событий
----
 
 ![UseCase](https://github.com/PavelPiuta/Messenger/blob/main/Diagrams/Use%20case/use.png)
 
